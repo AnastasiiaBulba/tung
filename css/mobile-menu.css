@@ -1,0 +1,78 @@
+/* Styles for mobile menu */
+.burger {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  width: 36px;
+  height: 36px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 1rem;
+  z-index: 120;
+  margin-right: 10px;
+}
+.burger span {
+  display: block;
+  height: 4px;
+  width: 100%;
+  background: var(--color-accent);
+  border-radius: 2px;
+  transition: all var(--transition-main);
+}
+.mobile-menu-modal {
+  display: none;
+  position: fixed;
+  z-index: 200;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(34, 44, 54, 0.85);
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.3s;
+}
+.mobile-menu-modal.active {
+  display: flex;
+}
+.mobile-menu-content {
+  background: var(--color-white);
+  border-radius: var(--radius-main);
+  box-shadow: 0 4px 32px var(--color-shadow);
+  padding: 2rem 1.5rem;
+  min-width: 220px;
+  max-width: 90vw;
+  text-align: center;
+  position: relative;
+  animation: heroFadeIn 0.4s;
+}
+.mobile-menu-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.mobile-menu-content a {
+  color: var(--color-primary);
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color var(--transition-main);
+}
+.mobile-menu-content a:hover {
+  color: var(--color-accent);
+}
+.close-modal {
+  position: absolute;
+  top: 0.7rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: var(--color-accent);
+  cursor: pointer;
+}

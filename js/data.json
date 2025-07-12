@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Tung Tung Sahur Reassembled",
+    "subtitle": "Master the art of mechanical assembly in the ultimate puzzle adventure!"
+  },
+  "features": [
+    "Complex mechanical puzzles with realistic physics",
+    "Intuitive touch controls for precise assembly",
+    "Progressive difficulty with unique challenges",
+    "Satisfying mechanical assembly gameplay",
+    "Brain-teasing puzzles for all skill levels!"
+  ],
+  "howToPlay": {
+    "controls": [
+      "Tap and drag to move mechanical parts",
+      "Rotate parts by swiping in circular motion",
+      "Align components precisely for assembly"
+    ],
+    "tips": [
+      "Study the blueprint before starting assembly",
+      "Work systematically from base to top",
+      "The more precise your assembly, the higher your score!"
+    ]
+  },
+  "mechanicalAssembly": {
+    "title": "Mechanical Assembly",
+    "description": "Master the art of mechanical assembly by carefully positioning gears, levers, and complex components. Each puzzle presents a unique challenge that requires logical thinking and precise manipulation."
+  },
+  "reviews": [
+    {
+      "user": "Emily",
+      "text": "Incredible puzzle complexity! The mechanical assembly challenges are so satisfying to solve."
+    },
+    {
+      "user": "Liam",
+      "text": "Perfect for mechanical minds. The realistic physics make every assembly feel authentic!"
+    },
+    {
+      "user": "Ava",
+      "text": "My favorite puzzle game. The progressive difficulty keeps me engaged for hours."
+    }
+  ],
+  "featuresImage": "icon/photo_one.jpg",
+  "news": {
+    "updates": [
+      {
+        "title": "New Mechanical Puzzles Added!",
+        "short": "Experience 15 brand new mechanical puzzles with complex gear systems and intricate assembly challenges.",
+        "full": "We're excited to announce the release of 15 brand new mechanical puzzles in Tung Tung Sahur Reassembled! Each puzzle introduces unique assembly mechanics, complex gear systems, and intricate component interactions that will test your mechanical intuition like never before. Prepare for challenging blueprints, precise timing requirements, and innovative solutions that push the boundaries of puzzle complexity. Can you master all the new mechanical challenges and become a true assembly expert? Jump in and discover the secrets of advanced mechanical engineering!"
+      },
+      {
+        "title": "Enhanced Physics Engine",
+        "short": "Realistic mechanical physics and improved component interactions for more authentic assembly experience.",
+        "full": "Thanks to valuable feedback from our dedicated puzzle enthusiasts, we've enhanced the physics engine in Tung Tung Sahur Reassembled to provide even more realistic mechanical interactions. Whether you're assembling simple gear systems or complex multi-component mechanisms, enjoy precise component alignment, realistic friction effects, and authentic mechanical behavior. Your assembly experience is now more immersive and true-to-life, letting you focus on perfecting your mechanical skills without distractions.",
+        "image": "icon/new2.jpg"
+      }
+    ],
+    "diaries": [
+      {
+        "title": "My First Complex Mechanism — How I assembled a 50-component system",
+        "short": "Tackling a 50-component mechanical system felt impossible — until I discovered the right approach!",
+        "full": "In this diary entry, I share the systematic approach I used, how I managed component dependencies, and the key moments where precise alignment made all the difference. Whether you're a beginner or looking to improve your assembly skills, these insights will help you think strategically and make smarter assembly decisions. Get ready to tackle the most complex mechanical challenges!",
+        "image": "icon/new.jpg"
+      },
+      {
+        "title": "Mechanical Mastery",
+        "short": "Expert tips and techniques for mastering complex mechanical assembly.",
+        "full": "Mastering mechanical assembly is the heart of Tung Tung Sahur Reassembled. After countless hours of puzzle-solving and experimentation, I've uncovered some essential techniques for new and experienced assemblers alike:<br /><br /><ul><li>Always study the blueprint thoroughly before starting assembly.</li><li>Work systematically from the base structure upward to avoid conflicts.</li><li>Pay attention to component orientation and alignment requirements.</li><li>Test each assembly step to ensure proper mechanical function.</li></ul>Master these techniques, and you'll be unstoppable on your way to becoming a mechanical genius!"
+      }
+    ]
+  }
+}
